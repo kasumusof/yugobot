@@ -396,7 +396,7 @@ func setupCommands(bot Bot) error {
 
 // TODO: make it work asynchronously
 // TODO: make the existing commands work better
-// TODO: add more commands 
+// TODO: add more commands
 // TODO: refactor
 // TODO: probably add a game
 // TODO: implement a small db to store users session (not sure how this would work but it is most probably for the game)
